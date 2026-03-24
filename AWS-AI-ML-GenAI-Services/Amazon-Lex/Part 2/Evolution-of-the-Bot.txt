@@ -1,0 +1,4 @@
+Give the Bot the ability to help users check their account balance using a new intent called CheckBalance!
+
+The chatbot will ask users for their birthday for verification too.
+
